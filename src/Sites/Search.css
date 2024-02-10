@@ -1,0 +1,14 @@
+#SearchDiv {
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+#SearchDiv button {
+    margin: 20px;
+    margin-left: 0px;
+    padding: 10px;
+}
+#SearchDiv input {
+    margin: 20px;
+    padding: 10px;
+    min-width:300px;
+}
